@@ -8,7 +8,8 @@
      Your program should draw the game board, ask the user for the coordinates of the next mark, 
      change the players after every successful move, and pronounce the winner.
 
-# FEATURES OF Tic TAK TOE:-
+# RESEARCH
+### FEATURES OF Tic TAK TOE:-
 
 ### The Tic-Tac-Toe Game has :
 
