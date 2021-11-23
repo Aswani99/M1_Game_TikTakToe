@@ -1,4 +1,4 @@
-INTRODUCTION:-
+# INTRODUCTION:-
 
      Our project name is Tic-Tac-Toe game. This game is very popular and isfairly simple by itself. 
      It is actually a two player game. In this game, there isa board with n x n squares. In our game, 
@@ -8,9 +8,9 @@ INTRODUCTION:-
      Your program should draw the game board, ask the user for the coordinates of the next mark, 
      change the players after every successful move, and pronounce the winner.
 
-FEATURES OF Tic TAK TOE:-
+# FEATURES OF Tic TAK TOE:-
 
-The Tic-Tac-Toe Game has :
+### The Tic-Tac-Toe Game has :
 
   * Simple interface.
   * Nice graphics.
@@ -19,9 +19,9 @@ The Tic-Tac-Toe Game has :
   * Runs in landscape or portrait orientations((as of 2011.04 version)
   * Released as Open Source software (source-code available).
 
-IDENTIFYING THE REQUIREMENTS:-
+# IDENTIFYING THE REQUIREMENTS:-
 
-Technologies and Tools Used:
+### Technologies and Tools Used:
 
      1.OPERATING SYSTEM : WINDOWS 7 AND ABOVE
      2.PROCESSOR : PENTIUM(ANY) OR AMD ATHALON(3800+- 4200+ DUAL CORE)
@@ -36,63 +36,63 @@ Technologies and Tools Used:
      Hardware CPU configuration
      11.Graphics
 
-SWOT ANALYSIS:
+# SWOT ANALYSIS:
 
-Strength:
+### Strength:
 
       It is an gamming application method ,tic-tac-toe which makes it really interesting to playOwing to the nature of the rules, 
   it is possible for the player to come up with multiple strategies to conquer the game, so It will improve thinking of multiple strategies 
   which will lead to sharp the human brain and also increases the thinking capability .
 
-Weakness:
+### Weakness:
 
       Some of the rules defined are ambiguous and might lead to confusion during game play.Only two player can play the game.
 
-Opportunities:
+### Opportunities:
 
       The play board and the number of pieces can be increased giving rise to more complex strategies
       The “tic-tak-toe” rules can be tweaked around a little bit to make the game simpler(or complex)
 
 
-Threats:
+### Threats:
 
       By using this gamming application, sometimes system might get hang, sometimes it might effected by malicious viruses and this leads to system might crashed.
   
-4W'S AND 1H
+# 4W'S AND 1H
 
-Why:
+### Why:
 
   * This project helps to sharp human brains.
   * This project helps to make fun and get relaxiation.
   * to improve the thinking capability and logical strategies.
 
-What:
+### What:
 
   * Improve hand-eye cooridination.
   * Encouage better social interaction by better collaborative play.
   * Develop their problem solving abilities.
    
-Where:
+### Where:
 
    *Mobiles.
    *computers.
    *Alpha-Beta pruning
    *Gamming centers etc..
-When:
+### When:
 
    While playing in free time.
-How:
+### How:
 
    This Gamming application is the process of Playing game between two persons.
 
-HIGH LEVEL REQUIREMENTS:-
+# HIGH LEVEL REQUIREMENTS:-
 
     * Use programming skills to map out the game logic for a simple game like Tic Tac Toe
     * Build an application to a spec provided by another party
     * Build a dynamic game that allows two players to compete (bonus: compete from separate devices)
     * Communicate with a provided back-end to store game state.
 
-LOW LEVEL PRQUIREMENTS:-
+# LOW LEVEL PRQUIREMENTS:-
 
 Design the game of tic-tac-toe game that is played between two players on a n x n grid. The game supports following features:
     * One or both of the two players can be computer.
